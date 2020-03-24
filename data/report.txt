@@ -1,0 +1,119 @@
+Name:
+Pitt id: @pitt.edu
+Tool: Scikit-learn
+
+Output:
+================Task 1================
+Model 1:
+Mean squared error	0.0
+--------------------
+Model 2:
+Mean squared error	0.0
+================Task 2================
+Model 1:
+Accuracy	0.0	Macro_F1	0.0	Macro_Precision	0.0	Macro_Recall	0.0
+Category	teacher	F1	0.0	Precision	0.0	Recall	0.0
+Category	health	F1	0.0	Precision	0.0	Recall	0.0
+Category	service	F1	0.0	Precision	0.0	Recall	0.0
+Category	at_home	F1	0.0	Precision	0.0	Recall	0.0
+Category	other	F1	0.0	Precision	0.0	Recall	0.0
+--------------------
+Model 2:
+Accuracy	0.0	Macro_F1	0.0	Macro_Precision	0.0	Macro_Recall	0.0
+Category	teacher	F1	0.0	Precision	0.0	Recall	0.0
+Category	health	F1	0.0	Precision	0.0	Recall	0.0
+Category	service	F1	0.0	Precision	0.0	Recall	0.0
+Category	at_home	F1	0.0	Precision	0.0	Recall	0.0
+Category	other	F1	0.0	Precision	0.0	Recall	0.0
+================Task 3================
+Model 1:
+Accuracy	0.0	Hamming loss	0.0
+--------------------
+Model 2:
+Accuracy	0.0	Hamming loss	0.0
+
+
+Report:
+
+Task 1:
+
+- What features do you choose to use and why chose them?
+  a. Feature 1: 
+  b. Feature 2: 
+  c. Feature 3: 
+  ...
+
+- How do you use these features? For example, original value, normalized value, log value, one hot vector, etc.
+  a. Feature 1: 
+  b. Feature 2: 
+  c. Feature 3: 
+  ...
+
+- Model 1
+  a. Model name:
+  b. Parameters that I tried and the corresponding performance on training data with 10 fold cross-validation.
+  c. Final performance on testing data.
+  d. Running time of training the model.
+
+- Model 2
+  a. Model name:
+  b. Parameters that I tried and the corresponding performance on training data with 10 fold cross-validation.
+  c. Final performance on testing data.
+  d. Running time of training the model.
+
+
+
+Task 2:
+
+- What features do you choose to use and why chose them?
+  a. Feature 1: 
+  b. Feature 2: 
+  c. Feature 3: 
+  ...
+
+- How do you use these features? For example, original value, normalized value, log value, one hot vector, etc.
+  a. Feature 1: 
+  b. Feature 2: 
+  c. Feature 3: 
+  ...
+
+- Model 1
+  a. Model name:
+  b. Parameters that I tried and the corresponding performance on training data with 10 fold cross-validation.
+  c. Final performance on testing data.
+  d. Running time of training the model.
+
+- Model 2
+  a. Model name:
+  b. Parameters that I tried and the corresponding performance on training data with 10 fold cross-validation.
+  c. Final performance on testing data.
+  d. Running time of training the model.
+
+
+
+
+Task 3:
+
+- What features do you choose to use and why chose them?
+  a. Feature 1: 
+  b. Feature 2: 
+  c. Feature 3: 
+  ...
+
+- How do you use these features? For example, original value, normalized value, log value, one hot vector, etc.
+  a. Feature 1: 
+  b. Feature 2: 
+  c. Feature 3: 
+  ...
+
+- Model 1
+  a. Model name:
+  b. Parameters that I tried and the corresponding performance on training data with 10 fold cross-validation.
+  c. Final performance on testing data.
+  d. Running time of training the model.
+
+- Model 2
+  a. Model name:
+  b. Parameters that I tried and the corresponding performance on training data with 10 fold cross-validation.
+  c. Final performance on testing data.
+  d. Running time of training the model.
